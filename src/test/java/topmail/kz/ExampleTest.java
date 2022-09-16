@@ -15,6 +15,6 @@ public class ExampleTest {
 
     void exampleTest2 () {
 
-        Assertions.assertTrue(5>=3);
+        Assertions.assertTrue(10>=3);
     }
 }
